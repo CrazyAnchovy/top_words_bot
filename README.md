@@ -1,4 +1,4 @@
-I have abandoned this after sorting 150,000 words in about 10,000 unique comments just to see a bunch of propositions and pronouns...boring. see below the end for a sample
+I have abandoned this after sorting 150,000 words in about 10,000 unique comments just to see a bunch of prepositions and pronouns...boring. see below the end for a sample
 
 # top_words_bot
 a reddit bot to point out and rank top words.
